@@ -1,0 +1,56 @@
+*{
+	text-align: right;
+}
+
+body{
+	background-image: url(backgroundimg.jpg);
+	background-size: cover;
+}
+
+li {	
+	list-style: none;
+	display: inline-block;
+}
+
+.boxmodel {
+	text-align: center;
+	border: 10px solid red;
+}
+
+h2 {
+	color: red;
+	text-align: center;
+	border: 5px solid black;
+	cursor: pointer;
+}
+
+.para1 {
+	border: 5px dashed green;
+	text-align: center;
+}
+
+img {
+	float: left;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
+p {
+	line-height: 20px;
+	font-style: italic;
+	font-size: 100%;
+	font-weight: bold;
+	font-family: 'Times New Roman', Times, serif;
+}
+#paraid2{
+	background-color: rgba(255,0,0,0.2)
+}
+
+.para2{
+	text-align: left;
+}
+
+
+
